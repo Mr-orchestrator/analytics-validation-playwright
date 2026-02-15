@@ -23,3 +23,17 @@ trace.zip
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# IDE files
+.claude/
+.vscode/
+.idea/
+
+# Keep documentation files locally but don't track them
+ARCHITECTURE.md
+FILE_NAMING_CONVENTION.md
+FIXES_SUMMARY.md
+FLOW_DISCOVERY_CHECKLIST.md
+LATEST_RUN_ONLY.md
+RFP_PLAYWRIGHT_REPLACEMENT.md
+TRACE_FILES_INFO.md
