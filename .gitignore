@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+
+# Generated test outputs (large / ephemeral)
+videos/
+validation_results/
+runtime_data/
+
+# Playwright artefacts
+*.webm
+*.zip
+trace.zip
+
+# Excel outputs (generated each run)
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
